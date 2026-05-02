@@ -9,7 +9,7 @@
       
       <!-- Nombre -->
       <span class="titulo">
-        ⚡ ELECTRÓNICA ERIK
+        ⚡ Nexus 4
       </span>
 
       <!-- Frase -->
